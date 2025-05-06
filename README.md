@@ -34,9 +34,9 @@ Bem-vindo ao meu perfil no GitHub! Sou formado em **Informática para Internet**
 ## 📊 Estatísticas do GitHub
 
 ### Linguagens Mais Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpprestes1&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpprestes1&layout=compact&theme=great-gatsby)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpprestes1&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpprestes1&show_icons=true&theme=great-gatsby)
 
 ---
 
