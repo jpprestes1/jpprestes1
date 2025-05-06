@@ -12,12 +12,17 @@ Bem-vindo ao meu perfil no GitHub! Sou formado em **Informática para Internet**
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks e Bibliotecas
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Bancos de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -31,8 +36,7 @@ Bem-vindo ao meu perfil no GitHub! Sou formado em **Informática para Internet**
 ### Linguagens Mais Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpprestes1&layout=compact&theme=radical)
 
-### Gráfico de Pizza
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/pin/?username=jpprestes1&repo=github-readme-stats&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpprestes1&show_icons=true&theme=transparent)
 
 ---
 
