@@ -64,7 +64,6 @@ Bem-vindo ao meu perfil no GitHub! Sou formado em **Informática para Internet**
 
 ## 📫 Contato
 
-- **Email**: joao.pedro@example.com
 - **LinkedIn**: [João Pedro Prestes](https://www.linkedin.com/in/jpprestes1/)
 - **GitHub**: [jpprestes1](https://github.com/jpprestes1)
 
