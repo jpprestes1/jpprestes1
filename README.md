@@ -4,7 +4,7 @@
 
 Bem-vindo ao meu perfil no GitHub! Sou formado em **Informática para Internet** pelo IFRS - Campus Rio Grande e atualmente curso **Engenharia da Computação** na FURG. Trabalho como **Desenvolvedor Júnior Mobile e Front-End** na **Augen Engenharia SA**.
 ---
-[!Status](./profile-3d-contrib/profile-night-green.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 ---
 
 ## 🚀 Tecnologias e Ferramentas
