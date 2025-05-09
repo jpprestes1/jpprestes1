@@ -1,10 +1,10 @@
 # 👨‍💻 João Pedro Prestes - Desenvolvedor Mobile e Front-End
-
 [![GitHub Followers](https://img.shields.io/github/followers/jpprestes1?style=social)](https://github.com/jpprestes1)
 [![GitHub Stars](https://img.shields.io/github/stars/jpprestes1?style=social)](https://github.com/jpprestes1)
 
 Bem-vindo ao meu perfil no GitHub! Sou formado em **Informática para Internet** pelo IFRS - Campus Rio Grande e atualmente curso **Engenharia da Computação** na FURG. Trabalho como **Desenvolvedor Júnior Mobile e Front-End** na **Augen Engenharia SA**.
-
+---
+[!Status](https://github.com/jpprestes1/jpprestes1/blob/main/profile-3d-contrib/profile-night-green.svg)
 ---
 
 ## 🚀 Tecnologias e Ferramentas
