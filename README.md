@@ -2,7 +2,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/jpprestes1?style=social)](https://github.com/jpprestes1)
 [![GitHub Stars](https://img.shields.io/github/stars/jpprestes1?style=social)](https://github.com/jpprestes1)
 
-Bem-vindo ao meu perfil no GitHub! Sou formado em **Informática para Internet** pelo IFRS - Campus Rio Grande e atualmente curso **Engenharia da Computação** na FURG. Trabalho como **Desenvolvedor Júnior Mobile e Front-End** na **Augen Engenharia SA**.
+Bem-vindo ao meu perfil no GitHub! Sou formado em **Informática para Internet** pelo IFRS - Campus Rio Grande e atualmente curso **Engenharia da Computação** na FURG. Trabalho como **Desenvolvedor FullStack Júnior** na **Paripassu**.
 ---
 ![Status](./profile-3d-contrib/profile-night-green.svg)
 ---
