@@ -32,16 +32,11 @@ Bem-vindo ao meu perfil no GitHub! Sou formado em **Informática para Internet**
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-### Linguagens Mais Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpprestes1&layout=compact&theme=great-gatsby)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpprestes1&show_icons=true&theme=great-gatsby)
-
----
+### IA
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
+[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)
+[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 ## 🛠️ Boas Práticas
 
